@@ -1,0 +1,45 @@
+{
+    "Patternfly": {
+        "jira": [
+            "https://patternfly.atlassian.net"
+        ], 
+        "pipermail": [
+            "https://www.redhat.com/archives/patternfly/"
+        ], 
+        "git": [
+            "https://github.com/patternfly/angular-patternfly.git", 
+            "https://github.com/patternfly/angular-patternfly-sass.git", 
+            "https://github.com/patternfly/patternfly.git", 
+            "https://github.com/patternfly/patternfly-blog.git", 
+            "https://github.com/patternfly/patternfly-code-guide.git", 
+            "https://github.com/patternfly/patternfly-demo-app.git", 
+            "https://github.com/patternfly/patternfly-design.git", 
+            "https://github.com/patternfly/patternfly-favicon.git", 
+            "https://github.com/patternfly/patternfly-org.git", 
+            "https://github.com/patternfly/patternfly-planning.git", 
+            "https://github.com/patternfly/patternfly-sass.git", 
+            "https://github.com/patternfly/patternfly-site.git", 
+            "https://github.com/patternfly/patternfly-timeline.git", 
+            "https://github.com/patternfly/patternfly.github.io.git"
+        ], 
+        "meta": {
+            "title": "patternfly"
+        }, 
+        "github": [
+            "https://github.com/patternfly/angular-patternfly", 
+            "https://github.com/patternfly/angular-patternfly-sass", 
+            "https://github.com/patternfly/patternfly", 
+            "https://github.com/patternfly/patternfly-blog", 
+            "https://github.com/patternfly/patternfly-code-guide", 
+            "https://github.com/patternfly/patternfly-demo-app", 
+            "https://github.com/patternfly/patternfly-design", 
+            "https://github.com/patternfly/patternfly-favicon", 
+            "https://github.com/patternfly/patternfly-org", 
+            "https://github.com/patternfly/patternfly-planning", 
+            "https://github.com/patternfly/patternfly-sass", 
+            "https://github.com/patternfly/patternfly-site", 
+            "https://github.com/patternfly/patternfly-timeline", 
+            "https://github.com/patternfly/patternfly.github.io"
+        ]
+    }
+}
